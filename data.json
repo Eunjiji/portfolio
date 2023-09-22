@@ -31,8 +31,7 @@
       "repoUrl": "https://github.com/songhyeonyeong/SemiProject_reqTakbae",
       "isTeam": true,
       "period": ["2018. 11", "2019. 01"],
-      "stack": ["JAVA","JAVASCRIPT", "HTML5", "CSS", "ORACLE"],
-      "imgSrc": "images/project/box.png"
+      "stack": ["JAVA","JAVASCRIPT", "HTML5", "CSS", "ORACLE"]
     },
     {
       "id": 1,
@@ -42,8 +41,7 @@
       "repoUrl": "https://github.com/Eunjiji/Duri",
       "isTeam": true,
       "period": ["2019. 01", "2019. 03"],
-      "stack": ["JAVA","JAVASCRIPT", "HTML5", "CSS", "ORACLE"],
-      "imgSrc": "images/project/friendship.png"
+      "stack": ["JAVA","JAVASCRIPT", "HTML5", "CSS", "ORACLE"]
     },
     {
       "id": 0,
@@ -53,8 +51,7 @@
       "repoUrl": "https://github.com/debrains/debrainsApi",
       "isTeam": true,
       "period": ["2022. 01", "2022. 05"],
-      "stack": ["Java", "Spring Framework(Security)", "JPA", "QueryDSL"],
-      "imgSrc": "images/project/debrain.png"
+      "stack": ["Java", "Spring Framework(Security)", "JPA", "QueryDSL"]
     }
 
   ],
