@@ -321,7 +321,7 @@ id는 **배열에서의 순서(index)** 라고 생각하고 작성해주시면 �
 인적사항을 보여주는 본문 최상단 영역이에요.
 
 
-단, 스크린샷에서 보이는 `안녕하세요, 프론트엔드 개발자 홍길동입니다.` 문구는 **`data.json`에서 작성한 것이 아니에요.**<br />
+단, 스크린샷에서 보이는 `안녕하세요, 백엔드 개발자 박은지입니다.` 문구는 **`data.json`에서 작성한 것이 아니에요.**<br />
 **직접 코드를 수정**해야 합니다! 가장 먼저 보이는 제목이므로, 개인이 원하는 대로 취향껏 커스텀해주세요.
 경로는 **`/src/components/Information/index.tsx`** 이며, **11번 라인**에 주석을 남겨두었어요.
 
@@ -661,7 +661,7 @@ theme: {
  */
 const DEFAULT_SEO = {
   title: "홍길동 | Front-End Dev",
-  description: "안녕하세요, 프론트엔드 개발자 홍길동입니다.",
+  description: "안녕하세요, 백엔드 개발자 박은지입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
